@@ -3,12 +3,13 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA20_sWx3s7uwW_ay1W_9mx4mby9iAkpX4",
-  authDomain: "frypery.firebaseapp.com",
-  projectId: "frypery",
-  storageBucket: "frypery.appspot.com",
-  messagingSenderId: "372503097033",
-  appId: "1:372503097033:web:3c1e2266d72f0268976718"
+  apiKey: "AIzaSyAQxZwnaPooZGYhucCww5KVS5R6BjOGA3Q",
+  authDomain: "frypery-32b31.firebaseapp.com",
+  projectId: "frypery-32b31",
+  storageBucket: "frypery-32b31.appspot.com",
+  messagingSenderId: "22337118137",
+  appId: "1:22337118137:web:b1c97c65aad7a883422068",
+  measurementId: "G-DMXMGCJ5RZ"
 };
 
 const app = initializeApp(firebaseConfig);
